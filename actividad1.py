@@ -6,7 +6,7 @@ os.system("cls")
 #- muestra el promedio (debe ser funcion)
 
 lista= []
-contador = 1
+
 
 def solicitar_nota():
     while True:
